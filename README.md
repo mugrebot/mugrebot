@@ -1,7 +1,8 @@
 
 # Hi, I'm m00npapi! 👋
 
-![Loading Animation](https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr)
+![Loading Animation](https://media.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy.gif)
+
 
 I'm a software engineer with a passion for web development and open-source projects.
 
