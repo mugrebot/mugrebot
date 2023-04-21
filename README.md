@@ -44,12 +44,12 @@ I'm a software engineer with a passion for web development and open-source proje
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugrebot&show_icons=true&theme=radical)
 
-## My Top 8 Projects
+## My Top 8
 
 |       |       |       |       |
 |-------|-------|-------|-------|
-| [![Image Alt Text](https://pbs.twimg.com/profile_images/1237550450/mstom_400x400.jpg)](https://en.wikipedia.org/wiki/Tom_Anderson) | [MultiSig.lol](https://github.com/buidlguidl/multisig.lol) | [Minimum Viable Exchange Challenge](https://github.com/squirtleDevs/scaffold-eth.git) | [Lens Starter](https://github.com/mugrebot/scaffold-eth-lens-challenge) |
-| [Project 5](https://github.com/mugrebot/project-5) | [Crowdfunding Contracts](https://github.com/viaprize/Viaprize_contracts) | [Scaffold-ETH2](https://github.com/scaffold-eth/scaffold-eth-2) | [2022 Valentines NFT](https://github.com/mugrebot/loveeth) |
+| [![Tom](https://pbs.twimg.com/profile_images/1237550450/mstom_200x200.jpg)](https://en.wikipedia.org/wiki/Tom_Anderson) | [![MultiSig.lol](https://pbs.twimg.com/profile_images/1593530827551477760/JSgxkTBM_200x200.jpg)](https://github.com/buidlguidl/multisig.lol)  | [![Minimum Viable Exchange Challenge](https://ichef.bbci.co.uk/news/976/cpsprodpb/B16A/production/_122881454_hi072594800.jpg)](https://github.com/squirtleDevs/scaffold-eth.git) | [![Lens Starter](https://pbs.twimg.com/profile_images/1600182286317748228/_RdN3dEB_200x200.png)](https://github.com/mugrebot/scaffold-eth-lens-challenge) |
+| [![PunkWallet](https://punkwallet.io/punks.png)](https://punkwallet.io) | [![Crowdfunding Contracts](https://pbs.twimg.com/media/Fq3kA_dWAAAS6IS.jpg)](https://github.com/viaprize/Viaprize_contracts) | [![Scaffold-ETH2](https://pbs.twimg.com/media/FuK99KMXwAwB774.jpg)](https://github.com/scaffold-eth/scaffold-eth-2) | [![2022 Valentines NFT](https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4_400x400.jpg)](https://github.com/mugrebot/loveeth) |
 
 
 ## My Top Languages
