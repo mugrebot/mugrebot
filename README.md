@@ -3,10 +3,15 @@
 
 ![Loading Animation](https://media.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy.gif)
 
+🎧 I'm currently listening to: [Youtube Playlist](https://youtube.com/playlist?list=PLh8qfW0UpoSw2jnkEjgz8J6AdM8-4ftYG)
+
 
 I'm a software engineer with a passion for web development and open-source projects.
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mugrebot.mugrebot)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=mugrebot.mugrebot)
+
+- 🌱 I’m currently learning assembly and how to audit smart contracts
+- 💬 Ask me about Solidity, JavaScript/TypeScript, React, Node.js, and Python.
 
 - Member of the BuidlGuidl (pronounced Build Guild) - working on making unstoppable Dapps and starter kits using Scaffold-ETH 
 - [🔗 Repository](https://github.com/scaffold-eth/scaffold-eth-2)
@@ -14,17 +19,17 @@ I'm a software engineer with a passion for web development and open-source proje
 - 🔭 I’m currently working on a crowdfunding contract and looking to add gitcoinpassport/ipfs api integration
 - [🔗 Repository](https://github.com/viaprize/Viaprize_contracts)
 
-- 🌱 I’m currently learning assembly and how to audit smart contracts
-
-- 💬 Ask me about Solidity, JavaScript/TypeScript, React, Node.js, and Python.
-
-- ⚡ Fun fact: I love playing the guitar, world of warcraft, and cooking.
-
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/msoche/) | [Twitter](https://twitter.com/m00npapi/)
 
 [![GitHub followers](https://img.shields.io/github/followers/mugrebot?label=Follow&style=social)](https://github.com/mugrebot) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/m00npapi?label=Follow&style=social)](https://twitter.com/m00npapi) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msoche/)
+
+## My Interests
+- 🎸 Guitar
+- 🕹️ Video games
+- 🍳 Cooking
+- 💻 Coding
 
 ## Technologies & Tools
 
@@ -38,6 +43,14 @@ I'm a software engineer with a passion for web development and open-source proje
 ## My GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mugrebot&show_icons=true&theme=radical)
+
+## My Top 8 Projects
+
+|       |       |       |       |
+|-------|-------|-------|-------|
+| [![Image Alt Text](https://pbs.twimg.com/profile_images/1237550450/mstom_400x400.jpg)](https://en.wikipedia.org/wiki/Tom_Anderson) | [MultiSig.lol](https://github.com/buidlguidl/multisig.lol) | [Minimum Viable Exchange Challenge](https://github.com/squirtleDevs/scaffold-eth.git) | [Lens Starter](https://github.com/mugrebot/scaffold-eth-lens-challenge) |
+| [Project 5](https://github.com/mugrebot/project-5) | [Crowdfunding Contracts](https://github.com/viaprize/Viaprize_contracts) | [Scaffold-ETH2](https://github.com/scaffold-eth/scaffold-eth-2) | [2022 Valentines NFT](https://github.com/mugrebot/loveeth) |
+
 
 ## My Top Languages
 
