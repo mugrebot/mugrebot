@@ -8,6 +8,9 @@ I'm a software engineer with a passion for web development and open-source proje
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mugrebot.mugrebot)
 
+- Member of the BuidlGuidl (pronounced Build Guild) - working on making unstoppable Dapps and starter kits using Scaffold-ETH 
+- [🔗 Repository](https://github.com/scaffold-eth/scaffold-eth-2)
+
 - 🔭 I’m currently working on a crowdfunding contract and looking to add gitcoinpassport/ipfs api integration
 - [🔗 Repository](https://github.com/viaprize/Viaprize_contracts)
 
