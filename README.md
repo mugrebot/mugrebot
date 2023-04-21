@@ -46,9 +46,10 @@ I'm a software engineer with a passion for web development and open-source proje
 
 ## My Top 8
 
+
 |       |       |       |       |
 |-------|-------|-------|-------|
-| [![Tom](https://pbs.twimg.com/profile_images/1237550450/mstom_50x50.jpg)](https://en.wikipedia.org/wiki/Tom_Anderson) | [![MultiSig.lol](https://pbs.twimg.com/profile_images/1593530827551477760/JSgxkTBM_200x200.jpg)](https://github.com/buidlguidl/multisig.lol)  | [![Minimum Viable Exchange Challenge](https://pbs.twimg.com/profile_images/1108632182/bono_50x50.jpg)](https://github.com/squirtleDevs/scaffold-eth.git) | [![Lens Starter](https://pbs.twimg.com/profile_images/1600182286317748228/_RdN3dEB_200x200.png)](https://github.com/mugrebot/scaffold-eth-lens-challenge) |
+| [![Tom](https://pbs.twimg.com/profile_images/1237550450/mstom_100x100.jpg)](https://en.wikipedia.org/wiki/Tom_Anderson) | [![MultiSig.lol](https://pbs.twimg.com/profile_images/1593530827551477760/JSgxkTBM_400x400.jpg)](https://github.com/buidlguidl/multisig.lol)  | [![Minimum Viable Exchange Challenge](https://pbs.twimg.com/profile_images/1108632182/bono_400x400.jpg)](https://github.com/squirtleDevs/scaffold-eth.git) | [![Lens Starter](https://pbs.twimg.com/profile_images/1600182286317748228/_RdN3dEB_200x200.png)](https://github.com/mugrebot/scaffold-eth-lens-challenge) |
 | [![PunkWallet](https://pbs.twimg.com/media/FE6tPtYVEAEpQm2.png)](https://punkwallet.io) | [![Crowdfunding Contracts](https://pbs.twimg.com/media/Fq3kA_dWAAAS6IS.jpg)](https://github.com/viaprize/Viaprize_contracts) | [![Scaffold-ETH2](https://austingriffith.com/images/austingriffith.jpg)](https://github.com/scaffold-eth/scaffold-eth-2) | [![2022 Valentines NFT](https://pbs.twimg.com/profile_images/977496875887558661/L86xyLF4_400x400.jpg)](https://github.com/mugrebot/loveeth) |
 
 
